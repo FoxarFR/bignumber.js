@@ -33,7 +33,8 @@
     },
     "./bignumber.mjs": "./bignumber.mjs",
     "./bignumber.js": "./bignumber.js",
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./bignumber": "./bignumber.js"
   },
   "author": {
     "name": "Michael Mclaughlin",
